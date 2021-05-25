@@ -16,11 +16,11 @@ module.exports = {
 
       //The name that should be used to identify your remote schema.
       // Learn more here https://gridsome.org/plugins/gridsome-source-graphql
-      fieldName: 'gcms',
+      fieldName: 'customField',
 
       //The prefix to be used for your imported schema's field types.
       // Learn more here https://gridsome.org/plugins/gridsome-source-graphql
-      typeName: 'gcmsTypes',
+      typeName: 'customTypes',
     }
 
   }]
